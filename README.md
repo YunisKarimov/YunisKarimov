@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yunis Karimov</h1>
 <h3 align="center">A passionate Junior Front End Developer from Azerbaijan</h3>
-img align="right" alt="Coding" width="400" src=" [https://www.simplilearn.com/ice9/free_resources_article_thumb/Front_End_Developer_Job_Description.jpg ](https://wiki.tino.org/wp-content/uploads/2021/05/47-Backend-la-gi-1024x684-1.jpg) "
+img align="right" alt="Coding" width="400" src=" https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC "
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuniskarimov&label=Profile%20views&color=0e75b6&style=flat" alt="yuniskarimov" /> </p>
 
